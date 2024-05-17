@@ -1,0 +1,302 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins";
+}
+
+.orab-turuvchi {
+    display: flex;
+}
+
+.logo {
+    color: brown;
+    padding-top: 50px;
+    padding-left: 150px;
+    width: 150px;
+}
+
+h3 {
+    padding: 58px;
+}
+
+.tugma {
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    border: none;
+    margin-left: 300px;
+    margin-top: 42px;
+    width: 150px;
+    height: 50px;
+}
+
+.tugma:hover {
+    color: black;
+    cursor: pointer;
+    background-color: green;
+}
+
+.chiziq {
+    color: gray;
+}
+
+.boss {
+    display: flex;
+}
+
+
+.mini {
+    padding-top: 100px;
+    padding-left: 200px;
+}
+
+
+.tugma2 {
+    height: 50px;
+    width: 150px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    background-color: green;
+}
+
+.tugma2:hover {
+    cursor: pointer;
+    background-color: black;
+    color: aqua;
+}
+
+.mini2 {
+    padding: 100px;
+}
+
+iframe {
+    border-radius: 20px;
+}
+
+
+
+
+
+.How {
+    text-align: center;
+}
+
+.boss2 {
+    display: flex;
+    justify-content: center;
+}
+
+.bum {
+    margin: 15px;
+    padding: 10px;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 300px;
+}
+
+
+
+.bum:hover {
+    cursor: pointer;
+    transition: 1s;
+    background-color: green;
+    color: white;
+}
+
+
+h2 {
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+}
+
+.yozuv {
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.tugma3 {
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+
+.omg::after {
+    content: "";
+    background: url(./img/pen-tool.png);
+    width: 30px;
+    height: 30px;
+    display: block;
+    margin-left: 50px;
+    background-repeat: no-repeat;
+}
+
+
+.h22::after {
+    content: "";
+    background: url(./img/chart-2.png);
+    width: 30px;
+    height: 30px;
+    display: block;
+    margin-left: 170px;
+    background-repeat: no-repeat;
+}
+
+
+.h23::after {
+    content: "";
+    background: url(./img/blur.png);
+    width: 30px;
+    height: 30px;
+    display: block;
+    margin-left: 100px;
+    background-repeat: no-repeat;
+}
+
+
+.h24::after {
+    content: "";
+    background: url(./img/Group\ 39346.png);
+    width: 30px;
+    height: 30px;
+    display: block;
+    margin-left: 100px;
+    background-repeat: no-repeat;
+}
+
+
+.h25::after {
+    content: "";
+    background: url(img/qalam.png);
+    width: 30px;
+    height: 30px;
+    display: block;
+    margin-left: 50px;
+    background-repeat: no-repeat;
+}
+
+
+.saturn {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.nature {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+
+.mars {
+    width: 1200px;
+    height: 650px;
+    background-image: url(./img/mars.png);
+    margin: 0 auto;
+    background-repeat: no-repeat;
+}
+
+
+.contianer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+form {
+    width: 55%;
+    margin: 0 auto;
+    height: 400px;
+    background-color: rgba(7, 7, 7, 0.5);
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    margin-top: 150px;
+
+}
+
+input {
+    padding-top: 60px;
+    background-color: transparent;
+    width: 450px;
+    height: 50px;
+    border: none;
+    outline: none;
+    border-bottom: 5px solid gray;
+    margin: 10px;
+    display: flex;
+
+}
+
+
+.moon:hover {
+    background-color: black;
+    color: aqua;
+    cursor: pointer;
+    border: 1px solid aqua;
+}
+
+
+.moon {
+    border: none;
+    background-color: #1AAB7B;
+    border-radius: 20px;
+    width: 200px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+::placeholder {
+    color: white;
+}
+
+
+
+.quyosh {
+    display: flex;
+    height: 200px;
+    margin-top: 50px;
+    background-color: black;
+
+}
+
+.pop {
+    color: gray;
+    padding-top: 20px;
+    padding-left: 150px;
+}
+
+
+.asus {
+    color: white;
+}
+
+.naruto {
+    padding-top: 15px;
+    padding-left: 20px;
+    color: gray;
+}
+
+.star {
+    padding-top: 35px;
+    padding-left: 250px;
+}
+
+.neptun {
+    padding-top: 35px;
+    padding-left: 300px;
+}
+
+i {
+    padding: 20px;
+    font-size: 30px;
+}
+
+
+input:hover {
+    color: gold;
+}
